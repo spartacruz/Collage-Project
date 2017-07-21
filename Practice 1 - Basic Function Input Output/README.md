@@ -1,9 +1,9 @@
-#Basic Function Input Output
+# Basic Function Input Output
 
-#From this practice, I was learn about Basic Function Input Output of C Programming.
+From this practice, I was learn about Basic Function Input Output of C Programming.
 
 
-##File 1_1.c contain :
+## File 1_1.c contain :
 ```
 /* ***********************************************************
 Algoritma Cetak_Prodi -- University major printing Algorithm
@@ -30,7 +30,7 @@ Date       : 29 september 2015
 ```
 
 
-##File 1_2.c contain :
+## File 1_2.c contain :
 ```
 /* ***********************************************************
 Algoritma Cetak_Satu_Statement
@@ -66,7 +66,7 @@ Date       : 29 september 2015
 ```
 
 
-##File 1_3.c contain :
+## File 1_3.c contain :
 ```
 /* ***********************************************************
 Algoritma pembagian
@@ -92,7 +92,7 @@ Date       : 29 september 2015
 ```
 
 
-##File 1_4.c contain :
+## File 1_4.c contain :
 ```
 /* ***********************************************************
 Algoritma Angka_Terbalik
