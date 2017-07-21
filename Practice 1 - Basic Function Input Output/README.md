@@ -1,6 +1,6 @@
-#Basic Function Input Output
+#Basic Function Input Output#
 
-From this practice, I was learn about Basic Function Input Output of C Programming.
+#From this practice, I was learn about Basic Function Input Output of C Programming.
 
 
 ##File 1_1.c contain :
