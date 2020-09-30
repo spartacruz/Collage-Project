@@ -1,12 +1,12 @@
-# Collage-Project
-All about my collage project (C Language)
+# College-Project
+All about my college project (C Language)
 
 
 
 Welcome to my repo!
 
 
-In this repo, you'll found all my c programming exercise. Mostly came from my lecturer assignment.
+In this repo, you'll found all my C programming exercise. Mostly came from my lecturer assignment.
 
 These programs are meant to help others get started quicker on their own projects and also help them understand certain coding techniques and ideas. Feel free to branching, use or modify whole / part of code.
 
