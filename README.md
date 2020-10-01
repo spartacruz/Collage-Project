@@ -13,7 +13,7 @@ These programs are meant to help others get started quicker on their own project
 Also, if you need more detail on certain code, giving some feedback, ~~or giving donation~~ dont hesitate to contact me by email.
 
 Have a nice day!
-
+Yes !
 
 
 *ps : All comments in code is written in Indonesian Language (Bahasa Indonesia), I will do my best to translate it in english. You may use google translate or contact me for further assistance*
